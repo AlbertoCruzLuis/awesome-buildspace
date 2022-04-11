@@ -4,7 +4,7 @@
   "description": "A curated list of awesome Buildspace projects",
   "main": "index.ts",
   "scripts": {
-    "updateReadme": "ts-node src/index.ts"
+    "update-readme": "ts-node src/index.ts"
   },
   "repository": {
     "type": "git",
