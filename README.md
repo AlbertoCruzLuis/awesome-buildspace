@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="200" src="./assets/logo.png" alt="logo of awesome-buildspace repository">
+  <br>
+  <br>
+</p>
+
 <h1 align="center">Awesome Buildspace</h1>
 
 <div align="center">
