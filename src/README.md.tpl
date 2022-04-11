@@ -11,18 +11,18 @@
 </div>
 
 ## Table of contents
+- [Leaderboard](#leaderboard)
 - [Projects](#projects)
 %{{projectsTableContent}}%
-- [Leaderboard](#leaderboard)
 - [License](#license)
-
-## Projects
-
-%{{projectsList}}%
 
 ## Leaderboard
 
 %{{projectsTop}}%
+
+## Projects
+
+%{{projectsList}}%
 
 ## License
 
