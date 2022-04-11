@@ -6,7 +6,7 @@ export const generateProjectsTableContentMD = async () => {
   const projects = await getBuildspaceProjectsInfo()
   
   projects.map(({ name }) => {
-    projectsTableContentMD += `\t- [${name}](#${name.replaceAll("_", "").toLowerCase()})\n`;
+    projectsTableContentMD += `\t- [${name}](#${name.toLowerCase()})\n`;
   });
   return projectsTableContentMD;
 }
@@ -38,7 +38,7 @@ export const generateLeaderboardMD = async () => {
   leaderboardMD += `|-----:|----:|----:|----:|\n`;
   projectData.map(({ stargazers_count, name, html_url, homepage, owner }) => {
     const avatar_url = owner.avatar_url.replace('v=4', 'size=20');
-    leaderboardMD += `| ${stargazers_count} :star: | [${name}](${html_url}) | [${homepage}](${homepage}) | <img src="${avatar_url}" width="20"> [${owner.login}](https://github.com/${owner.login}) |\n`;
+    leaderboardMD += `| ${stargazers_count} :star: | [${name}](${html_url}) | [${name}](${homepage}) | <img src="${avatar_url}" width="20"> [${owner.login}](https://github.com/${owner.login}) |\n`;
   })
 
   return leaderboardMD;
