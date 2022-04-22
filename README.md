@@ -27,6 +27,7 @@
 	- [Solana_And_Web3](#solana_and_web3)
 	- [Solana_NFTs](#solana_nfts)
 	- [Solidity_And_Smart_Contracts](#solidity_and_smart_contracts)
+	- [Terra_And_Web3](#terra_and_web3)
 
 - [License](#license)
 
@@ -34,7 +35,7 @@
 
 | Stars | repo | demo | owner |
 |-----:|----:|----:|----:|
-| 28 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
+| 29 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
 | 14 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 8 :star: | [nft-browser-game](https://github.com/denishrana09/nft-browser-game) | [nft-browser-game](https://denish-nft-game.netlify.app/) | <img src="https://avatars.githubusercontent.com/u/31031186?size=20" width="20"> [denishrana09](https://github.com/denishrana09) |
 | 11 :star: | [buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) | [buildspace-epic-nfts-ui](https://epic-nfts-ui-ten.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
@@ -106,8 +107,8 @@
 - [DHMIS-game](https://github.com/KevinBritten/DHMIS-game)
 - [epic-game](https://github.com/pdarden/epic-game)
 - [NFTgame](https://github.com/gotuzzoj23/NFTgame)
-- [nft-game-buildspace](https://github.com/lakshyaag/nft-game-buildspace)
 - [buildspace-epic-game-nft](https://github.com/berkayermis/buildspace-epic-game-nft)
+- [nft-game-buildspace](https://github.com/lakshyaag/nft-game-buildspace)
 - [epic-game-ui](https://github.com/canriquez/epic-game-ui)
 - [epic-nft-game](https://github.com/AlessandroAnnini/epic-nft-game)
 - [nft-game-project](https://github.com/9christine/nft-game-project)
@@ -128,6 +129,8 @@
 - [Web3-App-with-Solidity-and-Ethereum-Smart-Contracts](https://github.com/emTr0/Web3-App-with-Solidity-and-Ethereum-Smart-Contracts)
 - [mint-NFTs-solidity](https://github.com/Moldir28/mint-NFTs-solidity)
 - [ethereum-smart-contrat](https://github.com/ceptln/ethereum-smart-contrat)
+### Terra_And_Web3
+
 
 
 ## License
