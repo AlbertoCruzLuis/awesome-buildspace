@@ -36,7 +36,7 @@
 | Stars | repo | demo | owner |
 |-----:|----:|----:|----:|
 | 29 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
-| 14 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
+| 15 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 8 :star: | [nft-browser-game](https://github.com/denishrana09/nft-browser-game) | [nft-browser-game](https://denish-nft-game.netlify.app/) | <img src="https://avatars.githubusercontent.com/u/31031186?size=20" width="20"> [denishrana09](https://github.com/denishrana09) |
 | 11 :star: | [buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) | [buildspace-epic-nfts-ui](https://epic-nfts-ui-ten.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 | 6 :star: | [kingdom-create](https://github.com/Kingdom-Create/kingdom-create) | [kingdom-create](https://www.npmjs.com/package/kingdom-create) | <img src="https://avatars.githubusercontent.com/u/97411030?size=20" width="20"> [Kingdom-Create](https://github.com/Kingdom-Create) |
