@@ -35,7 +35,7 @@
 
 | Stars | repo | demo | owner |
 |-----:|----:|----:|----:|
-| 29 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
+| 30 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
 | 18 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 8 :star: | [nft-browser-game](https://github.com/denishrana09/nft-browser-game) | [nft-browser-game](https://denish-nft-game.netlify.app/) | <img src="https://avatars.githubusercontent.com/u/31031186?size=20" width="20"> [denishrana09](https://github.com/denishrana09) |
 | 13 :star: | [buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) | [buildspace-epic-nfts-ui](https://epic-nfts-ui-ten.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
@@ -81,8 +81,8 @@
 - [buildspace_nft](https://github.com/daileytj/buildspace_nft)
 - [nft-collection](https://github.com/mallory-jpg/nft-collection)
 - [Buildspace-NFTMint](https://github.com/gaboluque/Buildspace-NFTMint)
-- [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
 - [buildspace-nft-minting-site](https://github.com/frimoldi/buildspace-nft-minting-site)
+- [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
 - [my-nft-collection-on-chain](https://github.com/sebitokazu/my-nft-collection-on-chain)
 - [buildspace-epic-nfts](https://github.com/matcom-chacha/buildspace-epic-nfts)
 - [Square-NFT-Collection-Backend](https://github.com/huertaarielcsw/Square-NFT-Collection-Backend)
