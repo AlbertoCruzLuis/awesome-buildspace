@@ -37,34 +37,35 @@
 |-----:|----:|----:|----:|
 | 30 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
 | 18 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
-| 8 :star: | [nft-browser-game](https://github.com/denishrana09/nft-browser-game) | [nft-browser-game](https://denish-nft-game.netlify.app/) | <img src="https://avatars.githubusercontent.com/u/31031186?size=20" width="20"> [denishrana09](https://github.com/denishrana09) |
 | 13 :star: | [buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) | [buildspace-epic-nfts-ui](https://epic-nfts-ui-ten.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
+| 8 :star: | [buildspace-epic-game-ui](https://github.com/BraianVaylet/buildspace-epic-game-ui) | [buildspace-epic-game-ui](https://buildspace-epic-game-ui.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
+| 8 :star: | [nft-browser-game](https://github.com/denishrana09/nft-browser-game) | [nft-browser-game](https://denish-nft-game.netlify.app/) | <img src="https://avatars.githubusercontent.com/u/31031186?size=20" width="20"> [denishrana09](https://github.com/denishrana09) |
+| 7 :star: | [buildspace-taco-dao-ui](https://github.com/BraianVaylet/buildspace-taco-dao-ui) | [buildspace-taco-dao-ui](https://buildspace-taco-dao-ui.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 | 6 :star: | [kingdom-create](https://github.com/Kingdom-Create/kingdom-create) | [kingdom-create](https://www.npmjs.com/package/kingdom-create) | <img src="https://avatars.githubusercontent.com/u/97411030?size=20" width="20"> [Kingdom-Create](https://github.com/Kingdom-Create) |
 | 6 :star: | [terrible-characters](https://github.com/nickytonline/terrible-characters) | [terrible-characters](https://nftgame.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
-| 8 :star: | [buildspace-epic-game-ui](https://github.com/BraianVaylet/buildspace-epic-game-ui) | [buildspace-epic-game-ui](https://buildspace-epic-game-ui.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 | 8 :star: | [NFT-Minting-and-Web3-App](https://github.com/emTr0/NFT-Minting-and-Web3-App) | [NFT-Minting-and-Web3-App](https://nft-starter-repo-final.emtr0.repl.co/) | <img src="https://avatars.githubusercontent.com/u/595096?size=20" width="20"> [emTr0](https://github.com/emTr0) |
 | 7 :star: | [PokemonNFTGame](https://github.com/AlbertoCruzLuis/PokemonNFTGame) | [PokemonNFTGame](https://pokemonnft.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/58125006?size=20" width="20"> [AlbertoCruzLuis](https://github.com/AlbertoCruzLuis) |
 | 4 :star: | [picture-portal](https://github.com/nickytonline/picture-portal) | [picture-portal](https://pics.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 4 :star: | [buildspace-nft-frontend](https://github.com/umluizlima/buildspace-nft-frontend) | [buildspace-nft-frontend](https://buildspace-nft.umluizlima.dev) | <img src="https://avatars.githubusercontent.com/u/9170476?size=20" width="20"> [umluizlima](https://github.com/umluizlima) |
 | 3 :star: | [so-solana](https://github.com/nickytonline/so-solana) | [so-solana](https://sosolana.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 3 :star: | [buildspace-epic-nft](https://github.com/ntourne/buildspace-epic-nft) | [buildspace-epic-nft](buildspace-epic-nft.vercel.app) | <img src="https://avatars.githubusercontent.com/u/3385523?size=20" width="20"> [ntourne](https://github.com/ntourne) |
-| 7 :star: | [buildspace-taco-dao-ui](https://github.com/BraianVaylet/buildspace-taco-dao-ui) | [buildspace-taco-dao-ui](https://buildspace-taco-dao-ui.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
+| 3 :star: | [buildspace-wave-portal-ui](https://github.com/BraianVaylet/buildspace-wave-portal-ui) | [buildspace-wave-portal-ui](https://buildspace-wave-portal-ui.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 | 3 :star: | [buildspace-nft-client](https://github.com/okorieebube/buildspace-nft-client) | [buildspace-nft-client](buildspace-nft-client.vercel.app) | <img src="https://avatars.githubusercontent.com/u/53199415?size=20" width="20"> [okorieebube](https://github.com/okorieebube) |
 | 3 :star: | [wave-portal-frontend](https://github.com/fmoliveira/wave-portal-frontend) | [wave-portal-frontend](https://wave.fmoliveira.dev/) | <img src="https://avatars.githubusercontent.com/u/3985462?size=20" width="20"> [fmoliveira](https://github.com/fmoliveira) |
 | 2 :star: | [Gifurry](https://github.com/jetgoof/Gifurry) | [Gifurry](https://jetgoof.github.io/Gifurry/) | <img src="https://avatars.githubusercontent.com/u/10932293?size=20" width="20"> [jetgoof](https://github.com/jetgoof) |
-| 2 :star: | [bluecrew-nft-minter](https://github.com/chiarawilden/bluecrew-nft-minter) | [bluecrew-nft-minter](https://dev.chiarawilden.com/bluecrew) | <img src="https://avatars.githubusercontent.com/u/77884268?size=20" width="20"> [chiarawilden](https://github.com/chiarawilden) |
 | 2 :star: | [catverse](https://github.com/marcelc63/catverse) | [catverse](catverse.vercel.app) | <img src="https://avatars.githubusercontent.com/u/5201885?size=20" width="20"> [marcelc63](https://github.com/marcelc63) |
-| 3 :star: | [buildspace-epic-nfts](https://github.com/BraianVaylet/buildspace-epic-nfts) | [buildspace-epic-nfts](https://rinkeby.etherscan.io/address/0x9a59CFc34ABED8FDE5989892A1D2B75235d14b14) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
+| 2 :star: | [bluecrew-nft-minter](https://github.com/chiarawilden/bluecrew-nft-minter) | [bluecrew-nft-minter](https://dev.chiarawilden.com/bluecrew) | <img src="https://avatars.githubusercontent.com/u/77884268?size=20" width="20"> [chiarawilden](https://github.com/chiarawilden) |
 | 2 :star: | [buildspace-polygon-UI](https://github.com/KeithyMin/buildspace-polygon-UI) | [buildspace-polygon-UI](buildspace-polygon-ui.vercel.app) | <img src="https://avatars.githubusercontent.com/u/99687193?size=20" width="20"> [KeithyMin](https://github.com/KeithyMin) |
+| 3 :star: | [buildspace-epic-nfts](https://github.com/BraianVaylet/buildspace-epic-nfts) | [buildspace-epic-nfts](https://rinkeby.etherscan.io/address/0x9a59CFc34ABED8FDE5989892A1D2B75235d14b14) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 
 
 ## Projects
 
 ### JS_DAO
 
+- [buildspace-taco-dao-ui](https://github.com/BraianVaylet/buildspace-taco-dao-ui)
 - [buildspace-dao-starter](https://github.com/nachoiacovino/buildspace-dao-starter)
 - [kingdom-create](https://github.com/Kingdom-Create/kingdom-create)
-- [buildspace-taco-dao-ui](https://github.com/BraianVaylet/buildspace-taco-dao-ui)
 - [kingdom-boilerplate](https://github.com/Kingdom-Create/kingdom-boilerplate)
 - [buildspace-dao-starter](https://github.com/wendellup/buildspace-dao-starter)
 - [buildspace-weekend-dao](https://github.com/KeithyMin/buildspace-weekend-dao)
@@ -91,9 +92,9 @@
 - [mythical-creatures-nft-collection](https://github.com/apoorvkwatra99/mythical-creatures-nft-collection)
 ### NFT_Game
 
+- [buildspace-epic-game-ui](https://github.com/BraianVaylet/buildspace-epic-game-ui)
 - [nft-browser-game](https://github.com/denishrana09/nft-browser-game)
 - [terrible-characters](https://github.com/nickytonline/terrible-characters)
-- [buildspace-epic-game-ui](https://github.com/BraianVaylet/buildspace-epic-game-ui)
 - [PokemonNFTGame](https://github.com/AlbertoCruzLuis/PokemonNFTGame)
 - [2021-project](https://github.com/mallory-jpg/2021-project)
 - [Metaverse-Mercenaries](https://github.com/LoriKarikari/Metaverse-Mercenaries)
@@ -113,6 +114,8 @@
 - [nft-game-project](https://github.com/9christine/nft-game-project)
 ### Polygon_ENS
 
+- [buildspace-bat-domains](https://github.com/BraianVaylet/buildspace-bat-domains)
+- [buildspace-bat-domains-ui](https://github.com/BraianVaylet/buildspace-bat-domains-ui)
 ### Solana_And_Web3
 
 ### Solana_NFTs
