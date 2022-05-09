@@ -55,8 +55,8 @@
 | 2 :star: | [Gifurry](https://github.com/jetgoof/Gifurry) | [Gifurry](https://jetgoof.github.io/Gifurry/) | <img src="https://avatars.githubusercontent.com/u/10932293?size=20" width="20"> [jetgoof](https://github.com/jetgoof) |
 | 2 :star: | [catverse](https://github.com/marcelc63/catverse) | [catverse](catverse.vercel.app) | <img src="https://avatars.githubusercontent.com/u/5201885?size=20" width="20"> [marcelc63](https://github.com/marcelc63) |
 | 2 :star: | [bluecrew-nft-minter](https://github.com/chiarawilden/bluecrew-nft-minter) | [bluecrew-nft-minter](https://dev.chiarawilden.com/bluecrew) | <img src="https://avatars.githubusercontent.com/u/77884268?size=20" width="20"> [chiarawilden](https://github.com/chiarawilden) |
-| 2 :star: | [buildspace-polygon-UI](https://github.com/KeithyMin/buildspace-polygon-UI) | [buildspace-polygon-UI](buildspace-polygon-ui.vercel.app) | <img src="https://avatars.githubusercontent.com/u/99687193?size=20" width="20"> [KeithyMin](https://github.com/KeithyMin) |
 | 3 :star: | [buildspace-epic-nfts](https://github.com/BraianVaylet/buildspace-epic-nfts) | [buildspace-epic-nfts](https://rinkeby.etherscan.io/address/0x9a59CFc34ABED8FDE5989892A1D2B75235d14b14) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
+| 2 :star: | [buildspace-polygon-UI](https://github.com/KeithyMin/buildspace-polygon-UI) | [buildspace-polygon-UI](buildspace-polygon-ui.vercel.app) | <img src="https://avatars.githubusercontent.com/u/99687193?size=20" width="20"> [KeithyMin](https://github.com/KeithyMin) |
 
 
 ## Projects
@@ -82,8 +82,8 @@
 - [buildspace_nft](https://github.com/daileytj/buildspace_nft)
 - [nft-collection](https://github.com/mallory-jpg/nft-collection)
 - [Buildspace-NFTMint](https://github.com/gaboluque/Buildspace-NFTMint)
-- [buildspace-nft-minting-site](https://github.com/frimoldi/buildspace-nft-minting-site)
 - [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
+- [buildspace-nft-minting-site](https://github.com/frimoldi/buildspace-nft-minting-site)
 - [my-nft-collection-on-chain](https://github.com/sebitokazu/my-nft-collection-on-chain)
 - [buildspace-epic-nfts](https://github.com/matcom-chacha/buildspace-epic-nfts)
 - [Square-NFT-Collection-Backend](https://github.com/huertaarielcsw/Square-NFT-Collection-Backend)
