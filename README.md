@@ -115,7 +115,6 @@
 ### Polygon_ENS
 
 - [buildspace-bat-domains](https://github.com/BraianVaylet/buildspace-bat-domains)
-- [buildspace-bat-domains-ui](https://github.com/BraianVaylet/buildspace-bat-domains-ui)
 ### Solana_And_Web3
 
 ### Solana_NFTs
