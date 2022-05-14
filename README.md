@@ -56,7 +56,6 @@
 | 2 :star: | [catverse](https://github.com/marcelc63/catverse) | [catverse](catverse.vercel.app) | <img src="https://avatars.githubusercontent.com/u/5201885?size=20" width="20"> [marcelc63](https://github.com/marcelc63) |
 | 2 :star: | [bluecrew-nft-minter](https://github.com/chiarawilden/bluecrew-nft-minter) | [bluecrew-nft-minter](https://dev.chiarawilden.com/bluecrew) | <img src="https://avatars.githubusercontent.com/u/77884268?size=20" width="20"> [chiarawilden](https://github.com/chiarawilden) |
 | 3 :star: | [buildspace-epic-nfts](https://github.com/BraianVaylet/buildspace-epic-nfts) | [buildspace-epic-nfts](https://rinkeby.etherscan.io/address/0x9a59CFc34ABED8FDE5989892A1D2B75235d14b14) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
-| 2 :star: | [buildspace-polygon-UI](https://github.com/KeithyMin/buildspace-polygon-UI) | [buildspace-polygon-UI](buildspace-polygon-ui.vercel.app) | <img src="https://avatars.githubusercontent.com/u/99687193?size=20" width="20"> [KeithyMin](https://github.com/KeithyMin) |
 
 
 ## Projects
@@ -68,7 +67,6 @@
 - [kingdom-create](https://github.com/Kingdom-Create/kingdom-create)
 - [kingdom-boilerplate](https://github.com/Kingdom-Create/kingdom-boilerplate)
 - [buildspace-dao-starter](https://github.com/wendellup/buildspace-dao-starter)
-- [buildspace-weekend-dao](https://github.com/KeithyMin/buildspace-weekend-dao)
 - [structured-yolo-dao](https://github.com/nickytonline/structured-yolo-dao)
 - [dao-thirdweb](https://github.com/LuisRivera1699/dao-thirdweb)
 ### NFT_Collection
@@ -79,8 +77,8 @@
 - [epic-nft-game](https://github.com/fmonper1/epic-nft-game)
 - [buildspace-nft-collection](https://github.com/devgeetech/buildspace-nft-collection)
 - [collection-name-nft-web](https://github.com/devlyn37/collection-name-nft-web)
-- [buildspace_nft](https://github.com/daileytj/buildspace_nft)
 - [nft-collection](https://github.com/mallory-jpg/nft-collection)
+- [buildspace_nft](https://github.com/daileytj/buildspace_nft)
 - [Buildspace-NFTMint](https://github.com/gaboluque/Buildspace-NFTMint)
 - [buildspace-nft-minting-site](https://github.com/frimoldi/buildspace-nft-minting-site)
 - [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
@@ -115,6 +113,7 @@
 ### Polygon_ENS
 
 - [buildspace-bat-domains](https://github.com/BraianVaylet/buildspace-bat-domains)
+- [buildspace-bat-domains-ui](https://github.com/BraianVaylet/buildspace-bat-domains-ui)
 ### Solana_And_Web3
 
 ### Solana_NFTs
