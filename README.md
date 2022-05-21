@@ -26,6 +26,7 @@
 	- [Polygon_ENS](#polygon_ens)
 	- [Solana_And_Web3](#solana_and_web3)
 	- [Solana_NFTs](#solana_nfts)
+	- [Solana_Pay_Store](#solana_pay_store)
 	- [Solidity_And_Smart_Contracts](#solidity_and_smart_contracts)
 	- [Terra_And_Web3](#terra_and_web3)
 
@@ -36,7 +37,7 @@
 | Stars | repo | demo | owner |
 |-----:|----:|----:|----:|
 | 31 :star: | [epic-game-buildspace](https://github.com/zlayine/epic-game-buildspace) | [epic-game-buildspace](epic-game-buildspace.vercel.app) | <img src="https://avatars.githubusercontent.com/u/58786497?size=20" width="20"> [zlayine](https://github.com/zlayine) |
-| 19 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
+| 20 :star: | [minty-metaplex](https://github.com/nickytonline/minty-metaplex) | [minty-metaplex](https://mintymetaplex.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 13 :star: | [buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) | [buildspace-epic-nfts-ui](https://epic-nfts-ui-ten.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 | 10 :star: | [buildspace-epic-game-ui](https://github.com/BraianVaylet/buildspace-epic-game-ui) | [buildspace-epic-game-ui](https://buildspace-epic-game-ui.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 | 8 :star: | [nft-browser-game](https://github.com/denishrana09/nft-browser-game) | [nft-browser-game](https://denish-nft-game.netlify.app/) | <img src="https://avatars.githubusercontent.com/u/31031186?size=20" width="20"> [denishrana09](https://github.com/denishrana09) |
@@ -55,7 +56,6 @@
 | 2 :star: | [Gifurry](https://github.com/jetgoof/Gifurry) | [Gifurry](https://jetgoof.github.io/Gifurry/) | <img src="https://avatars.githubusercontent.com/u/10932293?size=20" width="20"> [jetgoof](https://github.com/jetgoof) |
 | 2 :star: | [catverse](https://github.com/marcelc63/catverse) | [catverse](catverse.vercel.app) | <img src="https://avatars.githubusercontent.com/u/5201885?size=20" width="20"> [marcelc63](https://github.com/marcelc63) |
 | 3 :star: | [buildspace-epic-nfts](https://github.com/BraianVaylet/buildspace-epic-nfts) | [buildspace-epic-nfts](https://rinkeby.etherscan.io/address/0x9a59CFc34ABED8FDE5989892A1D2B75235d14b14) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
-| 4 :star: | [buildspace-epic-game](https://github.com/BraianVaylet/buildspace-epic-game) | [buildspace-epic-game](https://rinkeby.etherscan.io/address/0x6b741cf326784c304fb47fef4248e3b7e9d161d2) | <img src="https://avatars.githubusercontent.com/u/31072177?size=20" width="20"> [BraianVaylet](https://github.com/BraianVaylet) |
 
 
 ## Projects
@@ -123,6 +123,8 @@
 - [sol-drop](https://github.com/narbs91/sol-drop)
 - [buildspace-nft-collection](https://github.com/devgeetech/buildspace-nft-collection)
 - [sports-gif-portal](https://github.com/apoorvkwatra99/sports-gif-portal)
+### Solana_Pay_Store
+
 ### Solidity_And_Smart_Contracts
 
 - [NFT-Minting-and-Web3-App](https://github.com/emTr0/NFT-Minting-and-Web3-App)
