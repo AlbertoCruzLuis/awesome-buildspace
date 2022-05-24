@@ -128,10 +128,8 @@
 ### Solidity_And_Smart_Contracts
 
 - [NFT-Minting-and-Web3-App](https://github.com/emTr0/NFT-Minting-and-Web3-App)
-- [_buildspaceNFTProject](https://github.com/pfeifemc/_buildspaceNFTProject)
 - [Web3-App-with-Solidity-and-Ethereum-Smart-Contracts](https://github.com/emTr0/Web3-App-with-Solidity-and-Ethereum-Smart-Contracts)
 - [mint-NFTs-solidity](https://github.com/Moldir28/mint-NFTs-solidity)
-- [ethereum-smart-contrat](https://github.com/ceptln/ethereum-smart-contrat)
 ### Terra_And_Web3
 
 
