@@ -78,11 +78,11 @@
 - [epic-nft-game](https://github.com/fmonper1/epic-nft-game)
 - [buildspace-nft-collection](https://github.com/devgeetech/buildspace-nft-collection)
 - [collection-name-nft-web](https://github.com/devlyn37/collection-name-nft-web)
-- [buildspace_nft](https://github.com/daileytj/buildspace_nft)
 - [nft-collection](https://github.com/mallory-jpg/nft-collection)
+- [buildspace_nft](https://github.com/daileytj/buildspace_nft)
 - [Buildspace-NFTMint](https://github.com/gaboluque/Buildspace-NFTMint)
-- [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
 - [buildspace-nft-minting-site](https://github.com/frimoldi/buildspace-nft-minting-site)
+- [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
 - [my-nft-collection-on-chain](https://github.com/sebitokazu/my-nft-collection-on-chain)
 - [buildspace-epic-nfts](https://github.com/matcom-chacha/buildspace-epic-nfts)
 - [Square-NFT-Collection-Backend](https://github.com/huertaarielcsw/Square-NFT-Collection-Backend)
@@ -113,7 +113,6 @@
 - [nft-game-project](https://github.com/9christine/nft-game-project)
 ### Polygon_ENS
 
-- [buildspace-bat-domains](https://github.com/BraianVaylet/buildspace-bat-domains)
 - [buildspace-bat-domains-ui](https://github.com/BraianVaylet/buildspace-bat-domains-ui)
 ### Solana_And_Web3
 
