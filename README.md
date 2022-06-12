@@ -45,7 +45,7 @@
 | 6 :star: | [kingdom-create](https://github.com/Kingdom-Create/kingdom-create) | [kingdom-create](https://www.npmjs.com/package/kingdom-create) | <img src="https://avatars.githubusercontent.com/u/97411030?size=20" width="20"> [Kingdom-Create](https://github.com/Kingdom-Create) |
 | 6 :star: | [terrible-characters](https://github.com/nickytonline/terrible-characters) | [terrible-characters](https://nftgame.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 8 :star: | [NFT-Minting-and-Web3-App](https://github.com/emTr0/NFT-Minting-and-Web3-App) | [NFT-Minting-and-Web3-App](https://nft-starter-repo-final.emtr0.repl.co/) | <img src="https://avatars.githubusercontent.com/u/595096?size=20" width="20"> [emTr0](https://github.com/emTr0) |
-| 8 :star: | [PokemonNFTGame](https://github.com/AlbertoCruzLuis/PokemonNFTGame) | [PokemonNFTGame](https://pokemonnft.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/58125006?size=20" width="20"> [AlbertoCruzLuis](https://github.com/AlbertoCruzLuis) |
+| 7 :star: | [PokemonNFTGame](https://github.com/AlbertoCruzLuis/PokemonNFTGame) | [PokemonNFTGame](https://pokemonnft.vercel.app/) | <img src="https://avatars.githubusercontent.com/u/58125006?size=20" width="20"> [AlbertoCruzLuis](https://github.com/AlbertoCruzLuis) |
 | 4 :star: | [picture-portal](https://github.com/nickytonline/picture-portal) | [picture-portal](https://pics.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
 | 4 :star: | [buildspace-nft-frontend](https://github.com/umluizlima/buildspace-nft-frontend) | [buildspace-nft-frontend](https://buildspace-nft.umluizlima.dev) | <img src="https://avatars.githubusercontent.com/u/9170476?size=20" width="20"> [umluizlima](https://github.com/umluizlima) |
 | 3 :star: | [so-solana](https://github.com/nickytonline/so-solana) | [so-solana](https://sosolana.iamdeveloper.com) | <img src="https://avatars.githubusercontent.com/u/833231?size=20" width="20"> [nickytonline](https://github.com/nickytonline) |
@@ -78,8 +78,8 @@
 - [epic-nft-game](https://github.com/fmonper1/epic-nft-game)
 - [buildspace-nft-collection](https://github.com/devgeetech/buildspace-nft-collection)
 - [collection-name-nft-web](https://github.com/devlyn37/collection-name-nft-web)
-- [nft-collection](https://github.com/mallory-jpg/nft-collection)
 - [buildspace_nft](https://github.com/daileytj/buildspace_nft)
+- [nft-collection](https://github.com/mallory-jpg/nft-collection)
 - [Buildspace-NFTMint](https://github.com/gaboluque/Buildspace-NFTMint)
 - [buildspace-nft-minting-site](https://github.com/frimoldi/buildspace-nft-minting-site)
 - [buildspace-nfts-contracts](https://github.com/okorieebube/buildspace-nfts-contracts)
